@@ -26,7 +26,7 @@ ul>li>a{
 	border: 2px solid black;
 	border-radius:10px;
 	margin-inline:100px;
-	height:auto;
+	height:500px;
 	width:600px;
 	margin-top: 10px;
 	
@@ -36,4 +36,6 @@ ul>li>a{
 h2{
 	text-align:center;
 }
-	
+	.player_one ,.player_two{
+			background-color: rgb(255, 255, 255); padding; border-radius
+	}
