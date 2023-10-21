@@ -1,41 +1,32 @@
-/*  your css code here. If applicable */
 body{
-	background-color: rgb(204, 204, 204)
+	background-color:#cccccc;
+}
+.player_one{
+	background-color:white;
+	padding-top:30px;
+	padding-bottom:30px;
+	border-radius:10px;
+	border:2px solid black;
+	
+}
+.player_two{
+	width:320px;
+	background-color:white;
+	padding:10px;
+	margin:auto;
+	border:2px solid black;
+	border-radius:10px;
 }
 h1{
 	text-align:center;
 }
-#divi1{
-	border:2px solid black;
-	border-radius:10px;
-	height:200px;
-	background-color:white;
-	margin-inline:20px;
-	
-}
-ul>li{
-	list-style-type: none;
-}
-ul>li>a{
-	text-decoration-line:none;
-	color:black;
-	text:bold;
-}
-
-.container{
-	border: 2px solid black;
-	border-radius:10px;
-	margin-inline:200px;
-	height:450px;
-	width:320px;
-	margin-top: 10px;
-	
-	
-	
-}
 h2{
 	text-align:center;
 }
-	.player_one ,.player_two{
-			background-color: rgb(255, 255, 255); padding; border-radius
-	}
+li{
+	list-style-type:none;
+}
+ 
+a{
+	text-decoration-line:none;
+}
